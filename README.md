@@ -1,3 +1,4 @@
+![Screenshot 1](s1.png)
 # Customer Onboarding Automation with n8n
 
 Automates new customer onboarding using HubSpot, email sequences, and team notifications.
